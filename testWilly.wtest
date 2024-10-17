@@ -1,9 +1,0 @@
-import willy.*
-
-describe "group of tests" {
-
-  test "initial test" {
-    assert.that(true)
-  }
-
-}
